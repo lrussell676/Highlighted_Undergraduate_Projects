@@ -3,7 +3,7 @@ Small Repo of some of my highlighted projects the last few years.
 
 # Carnegie Internship Poster, Summer 2021
 As part of my 2021 Internship, I had to summarise my completed research via a 3-page poster for display on the Funder's website. 
-My task was to complete a semi-developed 2D LAMMPS (C++) model to simulate vortex dynamics of FtsZ proteins, – a protein that 
+My task was to complete a semi-developed 2D LAMMPS (C++) model to simulate vortex dynamics of FtsZ proteins; a protein that 
 exists amongst many bacteria types and is present during the initial stages of cell division. 
 
 # 4th Yr Project, 2021-2022
